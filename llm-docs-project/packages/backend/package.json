@@ -1,0 +1,13 @@
+{
+  "name": "@repo/backend",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "convex dev",
+    "codegen": "convex dev --once"
+  },
+  "dependencies": {
+    "convex": "^1.24.1"
+  }
+} 
